@@ -26,7 +26,7 @@ local variants = {
 		---@deprecated for backwards compatibility
 		_experimental_nc = '#1f1d30',
 		nc = '#1f1d30',
-		base = '#232136',
+		base = '#191724',
 		surface = '#2a273f',
 		overlay = '#393552',
 		muted = '#6e6a86',
